@@ -1,4 +1,4 @@
-LMcSL EULA v1.0 (8/23/2019)
+LMcSL EULA v1.0b (8/23/2019)
 
 Usage of this work and the creation of derivative implies that you agree to the following:
 
@@ -20,8 +20,17 @@ Usage of this work and the creation of derivative implies that you agree to the 
     without any modification (unless otherwise stated), with all distributions of this work and any derivatives
     a.) LICENSE - Contains a copy of the GNU AGPLv3 license
     b.) EULA - Contains this EULA and its supplemental terms and conditions
-    c.) CONTRIBUTORS - Contains a list of all contributors for this work. Names may not be removed from this file,
-        only added or modified (such as if a name change occurs)
+    c.) CONTRIBUTORS - Contains a list of all contributors for this work.
+        1.) The overall format of the file may not be changed
+        2.) Derivative works must place their credits under the credits of the original work it was derived from
+            with a section header to separate them from the original work's credits
+        3.) Names on the contributor list may not be removed, only added and modified (such as in the event of a name
+            change)
+        4.) Credits may only be added and modified within the credit section (the area between that work's credit 
+            section header and the credit section header of the next program) allocated for your own work
+        5.) If a creditor's contributions are removed from the work, a note may be placed next to their contribution(s)
+            stating that this has occurred, but their name and contribution(s) may not be removed (as per section 2c3)
+        
 
 3.) MODIFICATION AND DERIVATIVES
     a.) For the purposes of the EULA, modified and derived works are treated equally
@@ -34,8 +43,7 @@ Usage of this work and the creation of derivative implies that you agree to the 
     e.) All derived works should keep track of current and previous contributors by adding their names or usernames to
         the attribution document, titled CONTRIBUTORS, which must be included with the version of the work they
         contributed to. While the document is required to be included with all distributions of this work and any
-        derivatives, it not required for creators to add to it. Additionally, names must NOT be removed from this file,
-        only added or modified (i.e. in the event of a name change).
+        derivatives, it not required for creators to add to it.
     f.) Derivative works are not eligible for commercial or patent use and must restrict this usage in its licensing
         or EULA
 
