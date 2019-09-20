@@ -1,0 +1,65 @@
+LMcSL EULA v1.0 (8/28/2019)
+
+Usage of this work and the creation of derivative implies that you agree to the following:
+
+1.) EULA TERMS AND CONDITIONS
+    a.) This End User License Agreement, henceforth referred to as the EULA, uses definitions provided in the GNU AGPLv3
+        license unless otherwise stated
+    b.) The EULA is supplemental to the GNU AGPLv3 license and, as such, is not a standalone license agreement
+    c.) In accordance with section 12 of the GNU AGPLv3 license, if a conflict occurs between it and the EULA, the EULA
+        supersedes the GNU AGPLv3 license, as it is an agreement between the end user and the creator(s) of this work
+    d.) The EULA and all supplemental terms contained within may change at any time without any notice
+    e.) All changes made the EULA are NOT ex post facto and apply ONLY to versions of the work released on or after the
+        date shown above
+    f.) In the event of a conflict between two version of the EULA, the updated version supersedes the older version
+    e.) This EULA must be included in any derivative works but is not required to be updated past the version of the
+        work it is derived from
+
+2.) REQUIRED DOCUMENTS
+    Included in the DOCS folder alongside this work are several text documents (listed and described below) which must be
+    included, without any modification (unless otherwise stated), with all distributions of this work and any derivatives
+    a.) LICENSE - Contains a copy of the GNU AGPLv3 license
+    b.) EULA - Contains this EULA and its supplemental terms and conditions
+    c.) CONTRIBUTORS - Contains a list of all contributors for this work.
+        1.) The overall format of the file may not be changed
+        2.) Derivative works must place their credits under the credits of the original work it was derived from
+            with a section header to separate them from the original work's credits
+        3.) Names on the contributor list may not be removed, only added and modified (such as in the event of a name
+            change)
+        4.) Credits may only be added and modified within the credit section (the area between that work's credit 
+            section header and the credit section header of the next program) allocated for your own work
+        5.) If a creditor's contributions are removed from the work, a note may be placed next to their contribution(s)
+            stating that this has occurred, but their name and contribution(s) may not be removed (as per section 2c3)
+        
+3.) MODIFICATION AND DERIVATIVES
+    a.) For the purposes of the EULA, modified and derived works are treated equally
+    b.) If modified, all previous "contributors" (as defined in the GNU AGPLv3 license) for the original work (the work
+        which the modified version was derived from) are granted contributor status for the modified work
+    c.) All derived works must clearly state that it has been modified or derived from the original work and disclose
+        the name of the original work for attribution purposes
+    d.) All derived works must attribute the derivative to its creator(s), not the creator(s) of the original work, to
+        prevent confusion as to whether it's the original work or a derivative
+    e.) All derived works should keep track of current and previous contributors by adding their names or usernames to
+        the attribution document, titled CONTRIBUTORS, which must be included with the version of the work they
+        contributed to. While the document is required to be included with all distributions of this work and any
+        derivatives, it not required for creators to add to it.
+    f.) Derivative works are not eligible for commercial or patent use and must restrict this usage in its licensing
+        or EULA
+
+4.) COMMERCIAL AND PATENT USE
+    a.) This work may ONLY be used or modified for commercial or patent use if the creator(s) of the unmodified work
+        gives explicit written permission to do so
+    b.) Commercial and patent use may, at the creator's discretion, require a licensing fee or royalty and must be
+        clearly stated in any documents where permission for such usage is granted
+    c.) All commercial derivatives must clearly state they are commercial, as well as comply with section 3 of the EULA
+
+5.) WARRANTY AND LIABILITY
+    a.) This work is provided as is, without any kind of warranty, express or implied, including but not limited to the
+        warranties of merchantability or fitness for a particular purpose.
+    b.) In no event shall the creator or any contributors be liable for any claim, damages or other liability, whether
+        in an action of contract, tort or otherwise, arising from, out of or in connection with this work or the use or
+        other dealings in this work.
+    c.) Derivative works may add superseding changes to liability statement. However, this does NOT change the liability
+        protections of previous creators or contributors. If you want to change the liability protections, you may add
+        superseding changes after section 5d
+    d.) If any exist, statements within section 5 after this line may supersede sections 5a and 5b.
